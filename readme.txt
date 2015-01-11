@@ -2,7 +2,7 @@
 Contributors: bradvin
 Tags: admin, shortcut, bookmark, bookmarks, productivity
 Requires at least: 3.8
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: trunk
 
 Bookmark your favorite posts, pages or custom post types within the WordPress admin
